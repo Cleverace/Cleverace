@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cleverace/NoESCqpe
+- 👋 Hi, I’m Cleverace/NoESCape
 - 👀 I’m interested in Server Administration.
 - 🌱 I’m currently learning everything asheron's call.
 - 💞️ I’m looking to collaborate on keeping the server running.
